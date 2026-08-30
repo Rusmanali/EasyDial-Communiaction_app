@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851778824039",
+    "project_id": "easydial09",
+    "storage_bucket": "easydial09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851778824039:android:ab7c8bcaea4290fae971c2",
+        "android_client_info": {
+          "package_name": "com.example.easydial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyCcE_ZJ4RX011sIbriwJkCYGh1XuXRvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
